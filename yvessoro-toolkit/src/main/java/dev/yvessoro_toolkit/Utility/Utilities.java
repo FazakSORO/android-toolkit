@@ -1,4 +1,4 @@
-package dev.yvessoro_toolkit;
+package dev.yvessoro_toolkit.Utility;
 
 import android.content.Context;
 import android.content.DialogInterface;

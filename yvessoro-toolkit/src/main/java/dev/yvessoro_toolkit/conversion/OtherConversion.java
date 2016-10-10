@@ -6,10 +6,12 @@
  * To change this template, choose Tools | Template Manager
  * and open the template in the editor.
  */
-package dev.yvessoro_toolkit;
+package dev.yvessoro_toolkit.conversion;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
+
+import dev.yvessoro_toolkit.common.CommonEnumm;
 
 
 /**

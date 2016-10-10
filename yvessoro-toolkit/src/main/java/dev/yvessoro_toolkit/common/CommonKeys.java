@@ -1,4 +1,4 @@
-package dev.yvessoro_toolkit;
+package dev.yvessoro_toolkit.common;
 
 /**
  * @author FOUNGNIGUE YVES SORO

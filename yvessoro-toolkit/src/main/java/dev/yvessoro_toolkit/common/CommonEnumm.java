@@ -6,7 +6,7 @@
  * To change this template, choose Tools | Template Manager
  * and open the template in the editor.
  */
-package dev.yvessoro_toolkit;
+package dev.yvessoro_toolkit.common;
 
 /**
  * @author FOUNGNIGUE YVES SORO
